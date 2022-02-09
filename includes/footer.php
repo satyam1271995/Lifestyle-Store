@@ -13,7 +13,7 @@
                 <h4>POLICY</h4>
                 <ul class="list-unstyled">
                     <li><a href="#">Return Policy</a></li>
-                    <li><a href="security.php">Security</a></li>
+                    <li><a href="#">Security</a></li>
                     <li><a href="#">Privacy</a></li>
                 </ul>
             </div>
@@ -36,7 +36,7 @@
         </div>
         <center>
             <hr>
-            <p>Copyright &copy; Satyam Lifestyle Store. All Rights Reserved</p>
+            <p>Copyright &copy; Lifestyle Store. All Rights Reserved</p>
             <img src="img/payment-method.svg">
         </center>
     </div>
