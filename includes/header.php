@@ -23,7 +23,6 @@
                     <?php
                 } else {
                     ?>
-                    <li><a href="about.php"><span class="glyphicon glyphicon-globe"></span> About Us</a></li>
                     <li><a href="signup.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
                     <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
                     <li><a href="contact.php"><span class="glyphicon glyphicon-envelope"></span> Contact</a></li>
