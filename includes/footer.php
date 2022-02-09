@@ -39,6 +39,5 @@
             <p>Copyright &copy; Satyam Lifestyle Store. All Rights Reserved</p>
             <img src="img/payment-method.svg">
         </center>
-        <p style="float: right">- Website Design and Development by Satyam Infotech<p>
     </div>
 </footer>
