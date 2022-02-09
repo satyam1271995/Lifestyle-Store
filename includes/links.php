@@ -12,4 +12,4 @@
         <link rel="SHORTCUT ICON" href="img/e_site_logo.png" type="image/ico">
         
          <link rel="stylesheet" href="css/style.css">
-         <link rel="stylesheet" href="css/preview.css"> 
+          
